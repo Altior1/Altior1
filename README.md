@@ -10,7 +10,7 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  Nom   : Altior1                    Niveau : 2               ║
 ║  Classe: Développeur  /  Multiclasse: Analyste de Données    ║
-║  Race  : Humain Français  🇫🇷         Alignement: Neutre Bon  ║
+║  Race  : Humain Français  🇫🇷         Alignement: Chaotic Bon  ║
 ║  État  : Fin d'Alternance — En quête d'une nouvelle aventure ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -61,7 +61,7 @@
 
   [ À VENIR ] ────────────────────────────────────────────────
    🔮 Approfondir l'Elixir & OTP
-   🔮 Maîtriser les arts de la Data (ML ?)
+   🔮 Maîtriser les arts de la Data et devenir invocateur d'IA
 ```
 
 ---
@@ -70,13 +70,13 @@
 
 > *Forgé dans les terres de France 🇫🇷, Altior1 a passé ses premières années de guilde en alternance,*  
 > *apprenant les arcanes du développement fonctionnel (Elixir) et les secrets des données (Python/Data).*  
-> *Il entre désormais dans une nouvelle ère de sa légende…*
+> *Il entre désormais dans une nouvelle ère…*
 
 ---
 
 ## 📬 Contacter l'aventurier
 
-*La boîte aux lettres de la guilde est ouverte — n'hésitez pas à laisser un parchemin* 📜
+*La boîte aux lettres de la guilde est fermée pour le moment * 📜
 
 <!-- Ajoute ici tes liens : LinkedIn, email, etc. -->
 
