@@ -10,7 +10,7 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  Nom   : Altior1                    Niveau : 2               ║
 ║  Classe: Développeur  /  Multiclasse: Analyste de Données    ║
-║  Race  : Humain Français  🇫🇷         Alignement: Chaotic Bon  ║
+║  Race  : Humain Français-Suisse 🇫🇷 🇨🇭 Alignement: Chaotic Bon  ║
 ║  État  : Fin d'Alternance — En quête d'une nouvelle aventure ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -68,9 +68,9 @@
 
 ## 🏕️ Origine & Contexte
 
-> *Forgé dans les terres de France 🇫🇷, Altior1 a passé ses premières années de guilde en alternance,*  
+> *Forgé dans les terres de France 🇫🇷, Altior1 a passé ses premières années de guilde en alternance,*
 > *apprenant les arcanes du développement fonctionnel (Elixir) et les secrets des données (Python/Data).*  
-> *Il entre désormais dans une nouvelle ère…*
+> *Il entre désormais dans une nouvelle ère, faite de tableau, de graphique et d'écran recouvert de KoDe*
 
 ---
 
