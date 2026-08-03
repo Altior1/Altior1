@@ -10,8 +10,8 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  Nom   : Altior1                    Niveau : 2               ║
 ║  Classe: Développeur  /  Multiclasse: Analyste de Données    ║
-║  Race  : Humain Français-Suisse 🇫🇷 🇨🇭 Alignement: Chaotic Bon  ║
-║  État  : Fin d'Alternance — En quête d'une nouvelle aventure ║
+║  Race  : Humain Français-Suisse 🇫🇷 🇨🇭 Alignement: C/B        ║
+║  État  : second                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -56,8 +56,8 @@
 
 ```
   [ EN COURS ] ──────────────────────────────────────────────
-   📌 Fin d'alternance — Clôturer la quête principale
-   📌 Chercher la prochaine aventure (poste / mission)
+   📌 Faire de supers applications
+   📌 Comprendre le métier
 
   [ À VENIR ] ────────────────────────────────────────────────
    🔮 Approfondir l'Elixir & OTP
