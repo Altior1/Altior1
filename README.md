@@ -1,31 +1,18 @@
-┌─────────────────────────────────────────┐
-│ A♠                                       │
-│                                          │
-│              ╔═══════════╗               │
-│              ║   Altior  ║               │
-│              ║  ┌─────┐  ║               │
-│              ║  │ λ   │  ║               │
-│              ║  │  Ⓐ  │ ║               │
-│              ║  └─────┘  ║               │
-│              ║  BACKEND  ║               │
-│              ╚═══════════╝               │
-│                                          │
-│  ── STACK ──────────────────────────     │
-│  Elixir · Phoenix · Ecto · PostgreSQL    │
-│  OTP / GenServer · Ecto.Multi            │
-│  SSO Entra ID · OAuth2 · JWT             │
-│                                          │
-│  ── EN COURS ───────────────────────     │
-│  ML en Elixir                            |
-│                                          |
-│                                          │
-│  ── ACTUELLEMENT ───────────────────     │
-│  HBSA — AAVS immo-santé (FR)             │
-│  App de notes façon Obsidian (React)     │
-│                                          │
-│  ── HORS JEU ───────────────────────     │
-│  Manga · RTS old-school · Tech future    │
-│                                          │
-│  "let it crash, let it learn"            │
-│                                       A♠ │
-└─────────────────────────────────────────┘
+Tom (Altior)
+
+Développeur backend, principalement sur stack Elixir / Phoenix, avec une API custom et PostgreSQL.
+
+Stack
+Elixir, Phoenix, Ecto
+PostgreSQL
+OTP / GenServer, systèmes distribués, GenStage
+GitHub Actions
+
+En cours d'apprentissage
+Machine Learning en Elixir
+
+Projets
+
+
+Contact
+<!-- liens -->
