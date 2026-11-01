@@ -1,18 +1,28 @@
-Tom (Altior)
+# Altior
 
-Développeur backend, principalement sur stack Elixir / Phoenix, avec une API custom et PostgreSQL.
+Développeur, principalement sur stack Elixir / Phoenix, avec PostgreSQL.
 
-Stack
-Elixir, Phoenix, Ecto
+## Stack technique
+### Language
+Elixir, Phoenix, Ecto,
+Tailwind
 PostgreSQL
-OTP / GenServer, systèmes distribués, GenStage
+
+### Bonne pratique
+
 GitHub Actions
+TDD
+Obsidian
 
-En cours d'apprentissage
+
+## En cours d'apprentissage
 Machine Learning en Elixir
+Rust
 
-Projets
+## Projets:
+
+### Repo d'apprentissage:
+
+- https://github.com/Altior1/exercism 
 
 
-Contact
-<!-- liens -->
